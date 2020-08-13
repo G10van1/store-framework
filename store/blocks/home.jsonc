@@ -7,10 +7,7 @@
   },
 
   "responsive-layout.desktop#desktop": {
-    "children": [
-      "rich-text#desktop",
-      "image#desktop"
-    ]
+    "children": ["rich-text#desktop"]
   },
   
   "responsive-layout.mobile#mobile": {
