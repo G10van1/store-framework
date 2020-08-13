@@ -76,7 +76,7 @@
     "props": {
       "hideImpossibleCombinations": false,
       "initialSelection": "empty",
-      "skuSelectorItemImageValue": true,
+      "ShowValueForVariation": "image",
       "showVariationsErrorMessage": true
     }
   },
