@@ -9,7 +9,7 @@
         "props":{
             "orientation": "horizontal"
         },
-        "bloks": ["vtex.menu@2.x:submenu#major", "vtex.menu@2.x:submenu#small", "vtex.menu@2.x:submenu#electronics"]
+        "blocks": ["vtex.menu@2.x:submenu#major", "vtex.menu@2.x:submenu#small", "vtex.menu@2.x:submenu#electronics"]
     },
 
     "vtex.menu@2.x:submenu#major":{
